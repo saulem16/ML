@@ -1,0 +1,2 @@
+Renting or buying a new home, whether you are a university student or a middle-class family, is always a complex process that often seems impulsive. As a student, I faced the problem of finding a decent rental housing. Thanks to internet sites nowadays we can search for an apartment on our own, rental services provide data through their websites. 
+In this project I’m going make algorithm that will predict price of rental places in Almaty based on other information like the number of rooms, distance from center of Almaty, area, etc.
